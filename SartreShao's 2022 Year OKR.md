@@ -1,6 +1,6 @@
 **SartreShao's 2022 Year OKR**
 
-**O1: Body Health - Weight loss to 165 pounds**
+**O1: Body Health - Weight loss to 175 pounds**
 
 KR1: Go to the gym two days a week
 
@@ -38,5 +38,14 @@ KR4: Started to operate a Xiaohongshu / Douyin account, focusing on product prac
 
 
 
-O4: Spirit - 
+**O4: Spirit - Enhance cognition and vision**
 
+KR1: Completed the online lesson of Wang Cen
+
+KR2: Listen to podcasts every day
+
+KR3: Read 4 hours per week
+
+KR4: Learn a "product manager" online course
+
+KR5: Learn a "operation" online course
